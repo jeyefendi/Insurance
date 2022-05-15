@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/insurance/static/css/main.138c20ee.css",
+    "main.js": "/insurance/static/js/main.07cac47d.js",
+    "static/media/building-3.png": "/insurance/static/media/building-3.c5d8253bb296d6eac0fa.png",
+    "static/media/clients.png": "/insurance/static/media/clients.a4b471d241829591f7a4.png",
+    "static/media/industrial.png": "/insurance/static/media/industrial.61e4f3516218d6c1a1b7.png",
+    "static/media/villa.png": "/insurance/static/media/villa.da7cfa123d4f2ef5c6b1.png",
+    "static/media/building-1.png": "/insurance/static/media/building-1.3c04eb16d96373aa472e.png",
+    "static/media/contruction.png": "/insurance/static/media/contruction.4ee83d8b35b7edc210d3.png",
+    "static/media/residential.png": "/insurance/static/media/residential.81d908c15c0f96340bd1.png",
+    "static/media/building-2.png": "/insurance/static/media/building-2.b464c1773a8ec7393745.png",
+    "index.html": "/insurance/index.html",
+    "static/media/arrow.svg": "/insurance/static/media/arrow.ffed987504b08891bc7c9c5d68cb7fcd.svg",
+    "main.138c20ee.css.map": "/insurance/static/css/main.138c20ee.css.map",
+    "main.07cac47d.js.map": "/insurance/static/js/main.07cac47d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.138c20ee.css",
+    "static/js/main.07cac47d.js"
+  ]
+}
