@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  color: white;
+}
+
+.fill {
+  opacity: 0.7;
+  transition: opacity 124ms linear, transform 124ms linear;
+}
+.fill:hover {
+  opacity: 1;
+}
+
+hr {
+  border: 1px solid #475161;
+}
