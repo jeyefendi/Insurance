@@ -11,8 +11,7 @@ const Hero = () => {
           Protect Your Property at All Cost
         </h1>
         <p className=" text-gray-500 my-7 text-center">
-          We are an insurance company that offers protection and guarantees for
-          your amazing property
+        We&nbsp;are an&nbsp;insurance company that offers protection and guarantees for your amazing&nbsp;property
         </p>
         <div className="flex justify-center gap-10">
           <button className="bg-blue-700 w-[150px] py-3 hover:bg-white hover:text-black transition-all duration-500 ease-in-out ">
