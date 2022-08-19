@@ -1,5 +1,7 @@
-# My first landing page powered by React.js
+# Insurance
+My first landing page powered by React.js<br>
 Honestly, Design is not mine. It was borrowed from Figma.
-# I coding this page from zero with use my knowledges and skills of HTML, CSS, Tailwind, JavaScript and React.js
-This code may not so clean and valid but it's mine.
-# Further - more!
+I built this page from zero as part of React.js Basics Learning.
+><b>React.js <br>JSX <br>Tailwind.CSS <br>React Icons</b>
+# [LIVE DEMO](https://jeyefendi.github.io/insurance/)
+![Logo](./COVER.webp)
